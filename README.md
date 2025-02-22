@@ -22,3 +22,5 @@ Next, a survey will be conducted, giving the learner a chance to honestly assess
 The learner can attempt to "resolve" a branch by taking an assessment for the problem at that branch. If their understanding of the subproblem is graded as sufficient, they may close the branch and move on to study and resolve other branches. When all branches of the root are closed and resolved, the learner can then attempt to resolve the root problem.
 
 If the learner finds a problem at a branch too large or difficult to understand, they may "split" the branch into further sub-branches. They can repeatedly divide and conquer until they resolve all key areas of a problem.
+
+**Property of 5stack as part of the University of the Philippines' KOMSAI WEEK 2025 HACKATHON**
