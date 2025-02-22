@@ -1,0 +1,3 @@
+[submodule "stackture_mobile"]
+	path = stackture_mobile
+	url = https://github.com/DymNomZ/stackture_mobile
