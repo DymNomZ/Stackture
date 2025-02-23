@@ -1,3 +1,6 @@
 [submodule "stackture_mobile"]
 	path = stackture_mobile
 	url = https://github.com/DymNomZ/stackture_mobile
+[submodule "stackture-web"]
+	path = stackture-web
+	url = https://github.com/tallbreadstick/stackture-web
